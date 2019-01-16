@@ -250,7 +250,8 @@ sub {
 
 /* 让链接在 hover 状态下显示下划线 */
 a {
-  color: #1abc9c;
+  /*color: #1abc9c;*/
+  color: #8f8f8f;
 }
 
 a:hover {
@@ -258,7 +259,8 @@ a:hover {
 }
 
 #write a {
-  border-bottom: 1px solid #1abc9c;
+  /*border-bottom: 1px solid #1abc9c;*/
+  border-bottom: 1px solid #8f8f8f;
 }
 
 #write a:hover {
